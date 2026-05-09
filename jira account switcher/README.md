@@ -32,7 +32,7 @@
 
 ### 配置站点
 
-脚本默认匹配 `https://tbjira.lenovo.com/*`，如需适配其他 Jira 站点，请修改脚本第 7 行的 `@match` 规则：
+脚本默认匹配 `https://tbjira.xxxx.com/*`，如需适配其他 Jira 站点，请修改脚本第 7 行的 `@match` 规则：
 
 ```javascript
 // @match        https://your-jira-domain.com/*
